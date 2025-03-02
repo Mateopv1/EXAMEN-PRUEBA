@@ -1,0 +1,55 @@
+
+:root{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+body{
+    background-image: url();
+    background-size: cover;
+}
+
+table{
+width: 80%;
+border: 1px solid black;
+margin: auto;
+
+}
+td{
+    background-color: cadetblue;
+    
+}
+
+img{
+    width: 100%;
+    
+}
+
+#formulario {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    font-family: sans-serif;
+    width: 20%;
+    margin: auto;
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+fieldset {
+    border: 1px solid white;
+    padding: 10px;
+    color: white;
+    background: #333;
+}
+
+label {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+input {
+    flex: 1;
+    margin-left: 10px;
+}
