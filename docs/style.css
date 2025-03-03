@@ -36,7 +36,7 @@ img{
 }
 
 fieldset {
-    border: 1px solid white;
+    border: 1px solid rgb(195, 118, 118);
     padding: 10px;
     color: white;
     background: #333;
